@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/rohan_cs19" target="blank"><img src="https://img.shields.io/twitter/follow/rohan_cs19?logo=twitter&style=for-the-badge" alt="rohan_cs19" /></a> </p>
 
-- 🔭 I’m currently working on **PG Booking APP**
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -14,7 +13,7 @@
 
 - 📫 How to reach me **rohanrao543211@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KKp76s6ChOVAiY_xsIDgUiFgb9JgsTEP/view?usp=sharing](https://drive.google.com/file/d/1KKp76s6ChOVAiY_xsIDgUiFgb9JgsTEP/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fZR62pxpsZJf-P5RGHc7YBJ0IIfe1v3x/view?usp=sharing](https://drive.google.com/file/d/1fZR62pxpsZJf-P5RGHc7YBJ0IIfe1v3x/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
