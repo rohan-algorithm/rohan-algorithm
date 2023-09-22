@@ -6,6 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/rohan_cs19" target="blank"><img src="https://img.shields.io/twitter/follow/rohan_cs19?logo=twitter&style=for-the-badge" alt="rohan_cs19" /></a> </p>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/rohan_cs)
 
 - 🌱 I’m currently learning **Flutter**
 
