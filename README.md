@@ -38,4 +38,3 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/rohan_cs)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-algorithm&show_icons=true&locale=en&layout=compact" alt="rohan-algorithm" /></p>
